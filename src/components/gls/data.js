@@ -105,75 +105,95 @@ export const cardData=[
     },
   ];
 
-export const incGLS=[
-    {
-        name:"Swami Mukundananda",
-        img:"swami",
-        color:"orange",
-        des:"Join us at Technovanza, VJTI for an enlightening session as Swamiji, A Vedic Scholar, Spiritual Leader, and distinguished IIT & IIM alumni, brings a unique blend of ancient wisdom and modern expertise.",
-        date:"12th January 2024",
-        time:"12:30 PM",
-        venue:"Kranti Jyoti Savitribai Phule Auditorium, VJTI, Mumbai",
-        link:"https://unstop.com/workshops-webinars/guest-lecture-swami-mukundananda-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumba-854450"
-    },
-    {
-        name:"Dr. Vijendar Singh Chauhan",
-        img:"vijendra",
-        color:"blue",
-        des:"Experience the fusion of knowledge and style of 'Being CaZual' as Dr. Vijender shares his insights. Don't miss this chance to soak up wisdom from a true trailblazer!",
-        date:"12th January 2024",
-        time:"3:00 PM",
-        venue:" Kranti Jyoti Savitribai Phule Auditorium, VJTI, Mumbai",
-        link:"https://unstop.com/workshops-webinars/guest-lecture-dr-vijendar-singh-chauhan-technovanza-vjti-veermata-jijabai-technological-institute-vjt-854456"
-    },
-    {
-        name:"Dr. Anil Prakash Joshi",
-        img:"anil",
-        color:"emerald",
-        des:"Prepare to be captivated as Dr. Joshi takes the stage to share his groundbreaking research and innovative solutions for sustainable growth. Don't miss this golden opportunity to learn from a visionary who has dedicated his life to preserving our environment and creating a harmonious balance between progress and nature. ",
-        date:"12th January 2024",
-        time:"5:00 PM",
-        venue:"Kranti Jyoti Savitribai Phule Auditorium VJTI",
-        link:"https://unstop.com/workshops-webinars/guest-lecture-dr-anil-prakash-joshi-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mu-854470"
-    },
-    {
-        name:" Leland Hartwell",
-        img:"hartwell",
-        color:"amber",
-        des:"Get ready to unlock new horizons of knowledge and ignite your passion for innovation. This mind-blowing event will leave you inspired, and motivated for a better tomorrow. A journey that will leave you energized, determined, and equipped to shape the world of the future. Secure your place for an unforgettable event.",
-        date:"13th January 2024",
-        time:"10:30 AM",
-        venue:" Kranti Jyoti Savitribai Phule Auditorium, VJTI",
-        link:"https://unstop.com/workshops-webinars/guest-lecture-leland-hartwell-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-854462"
-    },
-    {
-        name:"Vappala Balachandran",
-        img:"vappala",
-        color:"cyan",
-        des:"Technovanza proudly presents an extraordinary opportunity to hear from a true luminary, Mr. Vappala Balachandran, who has served as the Special Secretary of R&AW, and even as the Cabinet Secretariat, Government of India",
-        date:"13th January 2024",
-        time:"12:30 pm",
-        venue:"Kranti Jyoti Savitribai Phule Auditorium, VJTI",
-        link:"https://unstop.com/workshops-webinars/guest-lecture-vappala-balachandran-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mum-854460"
-    },
-    {
-        name:"Dr. Deepak Dhar",
-        img:"deepak",
-        color:"purple",
-        des:"Dr. Deepak Dhar, the first & only Indian to win the BOLTZMANN Medal, will shed light on how statistics can be both a powerful tool for understanding the world around us and a potential source of misuse if not approached with caution. ",
-        date:"13th January 2024",
-        time:"3:00pm",
-        venue:"Kranti Jyoti Savitribai Phule Auditorium, VJTI",
-        link:"https://unstop.com/workshops-webinars/speaker-session-dr-deepak-dhar-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-854474"
-    },
-    {
-      name:"Darshan Jariwala",
-      img:"darshan",
-      color:"rose",
-      des:"Join us as for an interactive session with the journey of acting based exploration with National film🎞️ award winner actor Mr. Darshan Jariwala in continuation to the Technovanza’s Guest lecture series🎥.He delivers a compelling performance and his portrayal role 🎦in movies like Gandhi: My father, Style,  Ajab Prem ki Gazab Kahani🎥🍿",
-      date:"13th January 2024",
-      time:"5:00pm",
-      venue:"Kranti Jyoti Savitribai Phule Auditorium, VJTI",
-      link:"https://unstop.com/p/guest-lecture-by-darshan-jariwala-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-860148"
-    }
+export const incGLS = [
+  {
+    name:"Shree B.N. Ramakrishna",
+    img:"ramakrishna",
+    color:"yellow",
+    des:"Brace yourself for an incredible opening ceremony at Technovanza because the legendary Director Shri B.N Ramachandran of ISRO is gracing us with his presence!.Get ready to be inspired by his wisdom and expertise as he kicks off this amazing technical event. ",
+    date:"12th January 2024",
+    time:"9:30 AM",
+    venue:"VJTI quad",
+    link:"https://unstop.com/workshops-webinars/guest-lecture-b-n-ramakrishna-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-862574"
+  },
+  {
+    name: "Swami Mukundananda",
+    img: "swami",
+    color: "orange",
+    des: "Join us at Technovanza, VJTI for an enlightening session as Swamiji, A Vedic Scholar, Spiritual Leader, and distinguished IIT & IIM alumni, brings a unique blend of ancient wisdom and modern expertise.",
+    date: "12th January 2024",
+    time: "12:30 PM",
+    venue: "Kranti Jyoti Savitribai Phule Auditorium, VJTI, Mumbai",
+    link: "https://unstop.com/workshops-webinars/guest-lecture-swami-mukundananda-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumba-854450"
+  },
+  {
+    name: "Dr. Vijendar Singh Chauhan",
+    img: "vijendra",
+    color: "blue",
+    des: "Experience the fusion of knowledge and style of 'Being CaZual' as Dr. Vijender shares his insights. Don't miss this chance to soak up wisdom from a true trailblazer!",
+    date: "12th January 2024",
+    time: "3:00 PM",
+    venue: " Kranti Jyoti Savitribai Phule Auditorium, VJTI, Mumbai",
+    link: "https://unstop.com/workshops-webinars/guest-lecture-dr-vijendar-singh-chauhan-technovanza-vjti-veermata-jijabai-technological-institute-vjt-854456"
+  },
+  {
+    name: "Dr. Anil Prakash Joshi",
+    img: "anil",
+    color: "emerald",
+    des: "Prepare to be captivated as Dr. Joshi takes the stage to share his groundbreaking research and innovative solutions for sustainable growth. Don't miss this golden opportunity to learn from a visionary who has dedicated his life to preserving our environment and creating a harmonious balance between progress and nature. ",
+    date: "12th January 2024",
+    time: "5:00 PM",
+    venue: "Kranti Jyoti Savitribai Phule Auditorium VJTI",
+    link: "https://unstop.com/workshops-webinars/guest-lecture-dr-anil-prakash-joshi-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mu-854470"
+  },
+  {
+    name:"Brand ambassador of ulhasnagar",
+    img:"ashish",
+    color:"pink",
+    des:" Brace yourself as the incredible Ashish Chanchlani, the renowned YouTuber, engineer, and content creator, is gracing our technical event with his presence. Prepare to be entertained, inspired, and blown away by his infectious energy, witty humor, and incredible insights. ",
+    date:"12th January 2024",
+    time:"6:00 PM",
+    venue:"VJTI quad",
+    link:"https://unstop.com/conferences/in-conversation-with-ashish-chanchlani-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-861490"
+  },
+  {
+    name: " Leland Hartwell",
+    img: "hartwell",
+    color: "amber",
+    des: "Get ready to unlock new horizons of knowledge and ignite your passion for innovation. This mind-blowing event will leave you inspired, and motivated for a better tomorrow. A journey that will leave you energized, determined, and equipped to shape the world of the future. Secure your place for an unforgettable event.",
+    date: "13th January 2024",
+    time: "10:30 AM",
+    venue: " Kranti Jyoti Savitribai Phule Auditorium, VJTI",
+    link: "https://unstop.com/workshops-webinars/guest-lecture-leland-hartwell-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-854462"
+  },
+  {
+    name: "Vappala Balachandran",
+    img: "vappala",
+    color: "cyan",
+    des: "Technovanza proudly presents an extraordinary opportunity to hear from a true luminary, Mr. Vappala Balachandran, who has served as the Special Secretary of R&AW, and even as the Cabinet Secretariat, Government of India",
+    date: "13th January 2024",
+    time: "12:30 pm",
+    venue: "Kranti Jyoti Savitribai Phule Auditorium, VJTI",
+    link: "https://unstop.com/workshops-webinars/guest-lecture-vappala-balachandran-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mum-854460"
+  },
+  {
+    name: "Dr. Deepak Dhar",
+    img: "deepak",
+    color: "purple",
+    des: "Dr. Deepak Dhar, the first & only Indian to win the BOLTZMANN Medal, will shed light on how statistics can be both a powerful tool for understanding the world around us and a potential source of misuse if not approached with caution. ",
+    date: "13th January 2024",
+    time: "3:00pm",
+    venue: "Kranti Jyoti Savitribai Phule Auditorium, VJTI",
+    link: "https://unstop.com/workshops-webinars/speaker-session-dr-deepak-dhar-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-854474"
+  },
+  {
+    name: "Darshan Jariwala",
+    img: "darshan",
+    color: "rose",
+    des: "Join us as for an interactive session with the journey of acting based exploration with National film🎞️ award winner actor Mr. Darshan Jariwala in continuation to the Technovanza’s Guest lecture series🎥.He delivers a compelling performance and his portrayal role 🎦in movies like Gandhi: My father, Style,  Ajab Prem ki Gazab Kahani🎥🍿",
+    date: "13th January 2024",
+    time: "5:00pm",
+    venue: "Kranti Jyoti Savitribai Phule Auditorium, VJTI",
+    link: "https://unstop.com/p/guest-lecture-by-darshan-jariwala-technovanza-vjti-veermata-jijabai-technological-institute-vjti-mumbai-860148"
+  }
 ]
