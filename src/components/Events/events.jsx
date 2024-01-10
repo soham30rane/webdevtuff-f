@@ -10,6 +10,9 @@ const Events = () => {
   const moveLeftButtonRef = useRef(null);
 
   const totalEvents = data.length;
+
+  // The number of controls should be equal to the number of planets in the data
+  // And each control is to be added in the 'controls' array
   const control1 = useAnimation()
   const control2 = useAnimation()
   const control3 = useAnimation()
@@ -17,9 +20,8 @@ const Events = () => {
   const control5 = useAnimation()
   const control6 = useAnimation()
   const control7 = useAnimation()
-  const control8 = useAnimation()
 
-  const controls = [control1, control2, control3, control4, control5, control6, control7, control8 ]
+  const controls = [control1, control2, control3, control4, control5, control6, control7 ]
   const [controlIndex, setControlIndex] = useState(0)
   const [isAnimating, setIsAnimating] = useState(false)
   const [currentIndex, setCurrentIndex] = useState(0)
